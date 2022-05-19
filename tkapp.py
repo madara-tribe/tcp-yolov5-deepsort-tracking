@@ -94,7 +94,7 @@ class Application(tk.Frame):
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = Application(master=root, host="192.168.10.107", port=8485)#Inherit
+    app = Application(master=root, host="192.xxx.xx.xxx", port=8485)#Inherit
     app.mainloop()
 
     
