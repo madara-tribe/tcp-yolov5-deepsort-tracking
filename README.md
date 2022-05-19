@@ -1,5 +1,28 @@
 # yolov5-deepsort-tracking via TCP Trasmission
 
+# Env and Versions
+
+## Host OS
+- Mac OS 12.3.1
+- python 3.8.1
+- pytorch 1.9.1+cu102
+- tkinter 8.6.10
+
+## guest OS
+- ubuntu 20.04
+- python 3.8.1
+- pytorch 1.9.1+cu102
+- tkinter 8.6.10
+
+
+## How to Start
+
+```
+$ python3 tkapp.py
+
+$ python3 yolov5_detect.py
+```
+
 
 # Stracture
 
