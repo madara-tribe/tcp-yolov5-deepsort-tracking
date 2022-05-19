@@ -1,4 +1,4 @@
-# yolov5-deepsort-tracking via TCP Trasmission
+# yolov5-deepsort-tracking via TCP
 
 # Env and Versions
 
