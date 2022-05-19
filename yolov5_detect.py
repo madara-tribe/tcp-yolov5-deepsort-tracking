@@ -159,7 +159,7 @@ def main():
 
     opt = get_parser()
     args = parser.parse_args()
-    yolov5_detect = Yolov5_Detction(host='192.168.10.107', port=8485)
+    yolov5_detect = Yolov5_Detction(host='192.xxx.xx.xxx', port=8485)
     yolov5_detect.yolov5_detection(opt)
 
 
