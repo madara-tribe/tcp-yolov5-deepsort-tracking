@@ -18,8 +18,9 @@
 ## How to Start
 
 ```
+# at host OS
 $ python3 tkapp.py
-
+# at guest OS
 $ python3 yolov5_detect.py
 ```
 
