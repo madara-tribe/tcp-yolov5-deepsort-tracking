@@ -28,6 +28,8 @@ $ python3 yolov5_detect.py
 
 # Stracture
 
+<img width="890" alt="stracture" src="https://user-images.githubusercontent.com/48679574/169323466-c0ef68ba-f64f-48da-b953-ba2ce106eb86.png">
+
 # result
 <b>Output movie<b>
   
