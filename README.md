@@ -2,14 +2,14 @@
 
 # Env and Versions
 
-## Host OS
+## Host OS(Mac)
 - Mac OS 12.3.1
 - python 3.6.10
 - pytorch 1.10.2
 - torchvision 0.11.3
 - tkinter 8.6 
 
-## guest OS
+## guest OS(ubuntu)
 - ubuntu 20.04
 - python 3.8.1
 - pytorch 1.10.2+cu102
