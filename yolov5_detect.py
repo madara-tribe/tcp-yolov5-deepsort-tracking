@@ -23,7 +23,7 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True'
 M_SIZE = 1024
 
 class Yolov5_Detction:
-    def __init__(self, host='192.168.10.107', port=8485):
+    def __init__(self, host='192.xxx.xx.xxx', port=8485):
         self.cfg = get_config()
         self.vid_writer = self.cv2_video_writer(w=1280, h=720)
         self.device = select_device(device='')
