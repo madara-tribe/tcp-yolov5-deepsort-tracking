@@ -154,7 +154,7 @@ def main():
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     # ATS control
     parser.add_argument("--port", default=8485, help="port for UDP")
-    parser.add_argument("--host", default="192.168.10.107", help="Main PC host")
+    parser.add_argument("--host", default="xxx.xxx.xx.xxx", help="Main PC host")
     args = parser.parse_args()
 
     opt = get_parser()
